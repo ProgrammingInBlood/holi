@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 body {
     background: url(../img/backgroung.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1,
